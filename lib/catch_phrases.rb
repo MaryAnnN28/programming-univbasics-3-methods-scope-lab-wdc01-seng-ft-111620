@@ -1,7 +1,7 @@
 
 
 def mario(phrase)
-  phrase = 'It's-a me, Mario!''
+  phrase = "It\n's-a me, Mario!"
   puts phrase
 end
 
